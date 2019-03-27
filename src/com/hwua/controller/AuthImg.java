@@ -17,6 +17,8 @@ import javax.servlet.http.HttpSession;
 @WebServlet("/authImg")
 public class AuthImg extends HttpServlet{
 
+
+
 	private static final long serialVersionUID = 1L;
 	
 	// 设置图形验证码中字符串的字体和大小  
